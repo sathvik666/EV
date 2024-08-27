@@ -1,0 +1,20 @@
+.rental{
+    height: 1000px;
+    color: rgb(19, 21, 21);
+    background-color: whitesmoke;
+}
+#rent{
+    padding-top: 150px;
+    padding-left: 100px;
+    padding-bottom: 40px;
+}
+#rent2{
+padding-top: 25px;
+padding-left: 100px;
+}
+#rent3{
+    padding-top: 10px;
+padding-left: 100px;
+padding-right: 350px;
+font-size: 20px;
+}

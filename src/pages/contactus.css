@@ -1,0 +1,57 @@
+.contact-us {
+    
+    background-color: #2b2a2a;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+ #hhh{
+    padding-top: 100px;
+    color: rgb(244, 244, 10);
+  }
+  
+  .contact-us h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-us li {
+    margin-bottom: 10px;
+  }
+  
+  .contact-us a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-us a:hover {
+    text-decoration: underline;
+  }
+#icon{
+    color: rgb(238, 238, 8);
+    
+    height: 20px;
+    width: 20px;
+} 
+.contact{
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+    padding-top: 10px;
+    margin-left: 45%;
+    font-family: cursive;
+    height: 200px;
+    box-shadow: 2px 5px 5px rgb(110, 110, 109);
+    width: 200px;
+    border: 1px solid black;
+} 
+.contact:hover{
+background-color: rgb(34, 33, 33);
+transform: scale(1.1);
+}

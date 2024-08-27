@@ -1,0 +1,52 @@
+.about-us {
+    margin-top: 130px;
+    padding: 20px;
+    background-color: #FAFAFA;
+    color: #202020;
+    font-family: 'Lato', sans-serif;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.about-us h1, .about-us h2 {
+    color: #252525;
+}
+
+.about-us h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.about-us h2 {
+    font-size: 2em;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.about-us p, .about-us ul {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.about-us ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.about-us ul li {
+    margin-bottom: 10px;
+}
+
+.about-us ul li strong {
+    color: #3C3C3C;
+}
+.our-vision{
+width: 30%;
+height: auto;
+}
+#paa{
+    padding-top: -1000px;
+}

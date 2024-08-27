@@ -1,0 +1,86 @@
+
+  
+  .rentall{
+    text-decoration: none;
+    color: white;
+  }
+  #paragraph{
+    color: black;
+  }
+  .modal-body{
+    color: black;
+    font-family:cursive;
+    padding: 5px;
+  }
+  #exampleModalLabel{
+    color: black;
+  }
+ 
+.btn {
+ 
+  color: aliceblue;
+}
+#button{
+  color: aliceblue;
+}
+
+.footer {
+  padding: 20px;
+  background-color: rgb(27, 27, 27);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.footer-links .btn {
+  background-color: rgb(27, 27, 27);
+  font-family:cursive;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.social-icons {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-right: -1400px;
+  margin-top: -35px;
+}
+
+.social-icons a {
+  margin: 0 5px;
+  color: #e9e2e2;
+}
+
+.social-icons a:hover {
+  color: #3b3b3c;
+}
+
+
+.copyright {
+  margin: 0;
+  margin-top: -5px;
+  color: #b2aeae;
+  font-family:cursive;
+  font-size: 14px;
+}
+#hr{
+  margin-top: -5px;
+  border: 1px solid #b2aeae;
+  width: 100%;
+}
+
